@@ -7,9 +7,8 @@ I'm Navodya Pasqual, a passionate Software Engineering student 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about TypeScript.
+- :seedling: I’m currently learning about .Net.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
-- 🤔 I’m looking for an internship.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
 
@@ -37,4 +36,4 @@ I'm Navodya Pasqual, a passionate Software Engineering student 💻.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NavodyaPasqual)
 
-Last Edited on: 22/09/2021
+Last Edited on: 22/11/2021
