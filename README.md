@@ -8,7 +8,7 @@ I'm Navodya Pasqual, a passionate Software Engineering student 💻.
 <!-- TODO: Add last video link -->
 
 - :seedling: I’m currently learning about .Net.
-- :computer: Most used line of code `git commit -m "Initial Commit"`.
+- :computer: Most used line of code `git commit -m " "`.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
 
